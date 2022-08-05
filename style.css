@@ -26,6 +26,15 @@ body
   align-items: center;
   border-radius:  22px;
 }
+/*Centered card content start  ----------------------------*/
+.card-centered
+  {
+    background: white;
+    width: 350px;
+    height: 374px;
+    box-shadow: 0px 25px 50px rgba(0, 0, 0, 0.0952917);
+    border-radius: 22px;
+}
 /*Author Content start-----------------------------*/
 .card-img-author
 {
@@ -85,15 +94,6 @@ body
 }
 /*Author Content end-----------------------------*/
 
-/*Centered card start  ----------------------------*/
-.card-centered
-  {
-    background: white;
-    width: 350px;
-    height: 374px;
-    box-shadow: 0px 25px 50px rgba(0, 0, 0, 0.0952917);
-    border-radius: 22px;
-}
 
 /*Footer content start  ----------------------------*/
 .footer-content
@@ -140,7 +140,7 @@ body
   display: inline-block;
 }
 /*Footer content end  ----------------------------*/
-/*Centered card end  ----------------------------*/
+/*Centered card content end  ----------------------------*/
 
 
 
